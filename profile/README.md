@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./wba_sticker_logo.svg" alt="WBA Studios Logo" width="200"/>
+  <img src="../wba_sticker_logo.svg" alt="WBA Studios Logo" width="200"/>
 </p>
 
 <p align="center">
