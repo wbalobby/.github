@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./logo.png" alt="WBA Studios Logo" width="200"/>
+  <img src="./wba_sticker_logo.svg" alt="WBA Studios Logo" width="200"/>
 </p>
-
-<h1 align="center">WBA Studios</h1>
 
 <p align="center">
   <strong>WE BUILD ARTISTS &nbsp;✦&nbsp; WE BRING AUDIO &nbsp;✦&nbsp; WORK BUILD ACHIEVE &nbsp;✦&nbsp; WE MEAN BUSINESS</strong>
